@@ -1,0 +1,13 @@
+.theme-toggler {
+  width: 13.9rem;
+}
+
+.toggler {
+}
+
+.keypad {
+  height: 2.6rem;
+  width: 7.1rem;
+  background-color: var(--toggle-keypad-bg-1);
+  border-radius: 1.3rem;
+}

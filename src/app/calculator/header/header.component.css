@@ -1,0 +1,11 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--text-common-white);
+}
+
+h2 {
+  font-size: 3.2rem;
+  letter-spacing: -0.533px;
+}

@@ -1,3 +1,12 @@
-/* .background {
-    background-color: ;
-} */
+#container {
+  height: 100%;
+  padding: 3rem 2.4rem;
+}
+
+.theme--original {
+  background-color: var(--main-bg-1);
+}
+
+main {
+  border: 1px dotted gold;
+}

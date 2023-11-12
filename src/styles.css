@@ -19,43 +19,45 @@
   /* Key Colors */
 
   /* Theme Original */
-  --key-bg: hsl(225, 21%, 49%);
-  --key-shadow: hsl(224, 28%, 35%);
-  --key-bg-toggle: hsl(6, 63%, 50%);
-  --key-shadow-2: hsl(6, 70%, 34%);
-  --key-bg-2: hsl(30, 25%, 89%);
-  --key-shadow-3: hsl(28, 16%, 65%);
+  --key-original-theme-bg: hsl(225, 21%, 49%);
+  --key-original-theme-shadow: hsl(224, 28%, 35%);
+  --key-original-theme-bg-toggle: hsl(6, 63%, 50%);
+  --key-original-theme-shadow-2: hsl(6, 70%, 34%);
+  --key-original-theme-bg-2: hsl(30, 25%, 89%);
+  --key-original-theme-shadow-3: hsl(28, 16%, 65%);
 
   /* Theme Ice */
-  --key-bg: hsl(185, 42%, 37%);
-  --key-shadow: hsl(185, 58%, 25%);
-  --key-bg-toggle: hsl(25, 98%, 40%);
-  --key-shadow-2: hsl(25, 99%, 27%);
-  --key-bg-2: hsl(45, 7%, 89%);
-  --key-shadow-3: hsl(35, 11%, 61%);
+  --key-ice-theme-bg: hsl(185, 42%, 37%);
+  --key-ice-theme-shadow: hsl(185, 58%, 25%);
+  --key-ice-theme-bg-toggle: hsl(25, 98%, 40%);
+  --key-ice-theme-shadow-2: hsl(25, 99%, 27%);
+  --key-ice-theme-bg-2: hsl(45, 7%, 89%);
+  --key-ice-theme-shadow-3: hsl(35, 11%, 61%);
 
   /* Theme Neon */
-  --key-bg: hsl(281, 89%, 26%);
-  --key-shadow: hsl(285, 91%, 52%);
-  --key-bg-toggle: hsl(176, 100%, 44%);
-  --key-shadow-2: hsl(177, 92%, 70%);
-  --key-bg-2: hsl(268, 47%, 21%);
-  --key-shadow-3: hsl(290, 70%, 36%);
+  --key-neon-theme-bg: hsl(281, 89%, 26%);
+  --key-neon-theme-shadow: hsl(285, 91%, 52%);
+  --key-neon-theme-bg-toggle: hsl(176, 100%, 44%);
+  --key-neon-theme-shadow-2: hsl(177, 92%, 70%);
+  --key-neon-theme-bg-2: hsl(268, 47%, 21%);
+  --key-neon-theme-shadow-3: hsl(290, 70%, 36%);
 
   /* Text Colors */
 
+  /* Common */
+  --text-common-white: #fff;
   /* Theme Original */
-  --text-1: hsl(30, 25%, 89%);
-  --text-2: hsl(28, 16%, 65%);
+  --text-origianl-theme-1: hsl(30, 25%, 89%);
+  --text-origianl-theme-2: hsl(28, 16%, 65%);
 
   /* Theme Ice */
-  --text-1: hsl(60, 10%, 19%);
-  --text-2: hsl(0, 0%, 100%);
+  --text-ice-theme-1: hsl(60, 10%, 19%);
+  --text-ice-theme-2: hsl(0, 0%, 100%);
 
   /* Theme Neon */
-  --text-1: hsl(52, 100%, 62%);
-  --text-2: hsl(198, 20%, 13%);
-  --text-3: hsl(0, 0%, 100%);
+  --text-neon-theme-1: hsl(52, 100%, 62%);
+  --text-neon-theme-2: hsl(198, 20%, 13%);
+  --text-neon-theme-3: hsl(0, 0%, 100%);
 }
 
 /* TODO: Font size (numbers): 3.2rem */

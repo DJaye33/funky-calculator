@@ -3,16 +3,12 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 import { ContainerComponent } from './container/container.component';
+import { CalculatorModule } from './calculator/calculator.module';
 
 @NgModule({
-  declarations: [
-    AppComponent,
-    ContainerComponent
-  ],
-  imports: [
-    BrowserModule
-  ],
+  declarations: [AppComponent, ContainerComponent],
+  imports: [BrowserModule, CalculatorModule],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
