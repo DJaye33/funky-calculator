@@ -14,3 +14,16 @@
   font-size: 4rem;
   letter-spacing: -0.667px;
 }
+
+/* ---- Media Queries ---- */
+@media (min-width: 1024px) {
+  .screen {
+    height: 12.8rem;
+    padding-right: 3.2rem;
+  }
+
+  .output {
+    font-size: 5.6rem;
+    letter-spacing: -0.933px;
+  }
+}
