@@ -1,0 +1,16 @@
+.screen {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 8.8rem;
+  background-color: var(--screen-bg-1);
+  border-radius: 1rem;
+  margin: 3.2rem 0 2.4rem;
+  padding-right: 2.4rem;
+}
+
+.output {
+  color: var(--text-common-white);
+  font-size: 4rem;
+  letter-spacing: -0.667px;
+}

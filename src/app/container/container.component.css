@@ -8,5 +8,6 @@
 }
 
 main {
-  /* border: 1px dotted gold; */
+  margin: 0 auto;
+  max-width: 540px;
 }
